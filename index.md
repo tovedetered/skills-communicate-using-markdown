@@ -9,3 +9,7 @@ pub fn main() void {
 
 cosnt std = @import("std");
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
